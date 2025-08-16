@@ -1,6 +1,4 @@
 # 🍽️ Amazon Food Reviews Sentiment Dashboard
-
-## 📌 Project Overview
 This project analyzes 568K+ Amazon food product reviews to uncover customer sentiment patterns using Natural Language Processing (NLP) and presents the insights in an interactive Power BI dashboard.
 The analysis provides an end-to-end workflow starting from data cleaning & preprocessing (Python) to sentiment classification (NLP) and finally data visualization (Power BI).
 
@@ -24,7 +22,7 @@ The analysis provides an end-to-end workflow starting from data cleaning & prepr
 - Positive (Score ≥ 4)
 - Neutral (Score = 3)
 - Negative (Score ≤ 2)
-### 👉 Python cleaning script is available in the repository.
+- 👉 Python cleaning script is available in the repository.
 
 ## 📊 Power BI Dashboard Features
 - KPI Cards: Total Reviews, Positive, Negative, Neutral.
