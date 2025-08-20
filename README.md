@@ -54,7 +54,7 @@ This project demonstrates an end-to-end NLP + Business Intelligence pipeline, br
 
 <img width="1267" height="705" alt="Amazon" src="https://github.com/user-attachments/assets/088c1b55-0a91-413b-a2ec-847fa6d203ca" />
 
-## Contributing
+## Contributions 
 - Feel free to fork, improve, add features or difficulty levels, and submit pull requests!
 
 ## License
